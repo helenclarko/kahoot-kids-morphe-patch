@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Name: Kahoot! Kids Morphe Patches
 Description: Patches for Kahoot! Kids
 Version: unspecified
-Timestamp: 1789493310847
+Timestamp: 1789495236646
 Source: https://github.com/kahoot-team/kahoot-kids-morphe-patch
 Author: Kahoot Security Team
 Contact: na

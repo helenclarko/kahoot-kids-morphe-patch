@@ -7,7 +7,7 @@
       "description": "Unlocks all Kahoot! Kids premium features in app. Overrides the AccountManager methods that determine premium entitlement to always return premium values, bypassing client-side subscription validation.",
       "default": true,
       "dependencies": [],
-      "download_url": "https://github.com/kahoot-team/kahoot-kids-morphe-patch/releases/download/v1.0.0/patches-1.0.0.mpp",
+      "download_url": "https://github.com/helenclarko/kahoot-kids-morphe-patch/releases/download/v1.0.0/patches-1.0.0.mpp",
       "signature_download_url": "",
       "compatiblePackages": [
         {
